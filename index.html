@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Location-Based Event Finder</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <header>
+        <h1>Event Finder</h1>
+        <nav>
+            <ul>
+                <li><a href="login.html">Home</a></li>
+                <li><a href="#event finder">Event Finder</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><button id="dark-mode-toggle" class="btn-dark-mode"><i class="fas fa-moon"></i> Dark Mode</button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero-section-i">
+        <h2>Find Events Near You</h2>
+        <p>Enter your location and the type of event to discover exciting activities happening around you.</p>
+    </section>
+
+    <section class="event-section">
+        <div class="event-container" id="event finder">
+            <h2>Submit Your Event</h2>
+            <form id="event-form">
+                <input type="date" id="date"  >
+                <input type="text" id="location" placeholder="Enter event location" >
+                <input type="text" id="event-type" placeholder="Type of event" >
+                <button type="submit" class="btn-primary">Search</button>
+            </form>
+        </div>
+    </section>
+    
+    <section class="event-section">
+        <h2>Event List</h2>
+        <table id="events-table" class="styled-table" border="1">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Location</th>
+                    <th>Event Type</th>
+                    <th>Description</th>
+                    
+                </tr>
+            </thead>
+            <tbody id="events-tbody">
+                <!-- Dynamic event list will be inserted here -->
+            </tbody>
+        </table>
+    </section>
+    
+
+    <footer>
+        <div id="contact"> 
+            <p>Contact: +919874563210</p>
+        <p>+919576248631</p>
+        </div>
+        
+        <p>&copy; 2024 Event Finder. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
