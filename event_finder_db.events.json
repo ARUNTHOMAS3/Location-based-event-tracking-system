@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be0"
+  },
+  "location": "Banglore",
+  "eventType": "Tech Conference",
+  "date": {
+    "$date": "2024-11-10T00:00:00.000Z"
+  },
+  "description": "Annual Tech Innovations Conference"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be1"
+  },
+  "location": "Mumbai",
+  "eventType": "Music Festival",
+  "date": {
+    "$date": "2024-12-05T00:00:00.000Z"
+  },
+  "description": "Mumbai Music Fest 2024"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be2"
+  },
+  "location": "Delhi",
+  "eventType": "Startup Expo",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "description": "Startup Expo 2024"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be3"
+  },
+  "location": "Chennai",
+  "eventType": "Business Summit",
+  "date": {
+    "$date": "2024-12-15T00:00:00.000Z"
+  },
+  "description": "South India Business Summit"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be4"
+  },
+  "location": "Hyderabad",
+  "eventType": "Workshop",
+  "date": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "description": "Cloud Computing Workshop"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be5"
+  },
+  "location": "Kolkata",
+  "eventType": "Art Exhibition",
+  "date": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "description": "Contemporary Art Expo"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be6"
+  },
+  "location": "Pune",
+  "eventType": "Sports Event",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "description": "Pune Marathon 2024"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be7"
+  },
+  "location": "Ahmedabad",
+  "eventType": "Food Festival",
+  "date": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "description": "Ahmedabad Food Carnival"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be8"
+  },
+  "location": "Banglore",
+  "eventType": "Tech Conference",
+  "date": {
+    "$date": "2024-11-15T00:00:00.000Z"
+  },
+  "description": "AI & ML Conference"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2be9"
+  },
+  "location": "Mumbai",
+  "eventType": "Music Festival",
+  "date": {
+    "$date": "2025-01-12T00:00:00.000Z"
+  },
+  "description": "Bollywood Music Night"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bea"
+  },
+  "location": "Delhi",
+  "eventType": "Startup Expo",
+  "date": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "description": "Innovations in Startups"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2beb"
+  },
+  "location": "Chennai",
+  "eventType": "Workshop",
+  "date": {
+    "$date": "2024-12-25T00:00:00.000Z"
+  },
+  "description": "Digital Marketing Workshop"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bec"
+  },
+  "location": "Hyderabad",
+  "eventType": "Seminar",
+  "date": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "description": "Cybersecurity Awareness Seminar"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bed"
+  },
+  "location": "Kolkata",
+  "eventType": "Sports Event",
+  "date": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "description": "Kolkata Cricket League"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bee"
+  },
+  "location": "Pune",
+  "eventType": "Tech Conference",
+  "date": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "description": "IoT Summit 2025"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bef"
+  },
+  "location": "Ahmedabad",
+  "eventType": "Cultural Fest",
+  "date": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "description": "Traditional Arts Festival"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf0"
+  },
+  "location": "Banglore",
+  "eventType": "Music Festival",
+  "date": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "description": "Indie Music Fest"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf1"
+  },
+  "location": "Mumbai",
+  "eventType": "Business Summit",
+  "date": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "description": "Global Business Summit"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf2"
+  },
+  "location": "Delhi",
+  "eventType": "Tech Conference",
+  "date": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "description": "Cloud Computing Innovations"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf3"
+  },
+  "location": "Chennai",
+  "eventType": "Art Exhibition",
+  "date": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "description": "Chennai Art Fair"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf4"
+  },
+  "location": "Hyderabad",
+  "eventType": "Workshop",
+  "date": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "description": "Blockchain Development Workshop"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf5"
+  },
+  "location": "Kolkata",
+  "eventType": "Business Summit",
+  "date": {
+    "$date": "2024-12-10T00:00:00.000Z"
+  },
+  "description": "Eastern India Business Meet"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf6"
+  },
+  "location": "Pune",
+  "eventType": "Food Festival",
+  "date": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "description": "Pune Street Food Fiesta"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf7"
+  },
+  "location": "Ahmedabad",
+  "eventType": "Sports Event",
+  "date": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "description": "Ahmedabad Half Marathon"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf8"
+  },
+  "location": "Banglore",
+  "eventType": "Workshop",
+  "date": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "description": "AI & Robotics Workshop"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bf9"
+  },
+  "location": "Mumbai",
+  "eventType": "Tech Conference",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "description": "FinTech Innovations Conference"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bfa"
+  },
+  "location": "Delhi",
+  "eventType": "Music Festival",
+  "date": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "description": "Delhi Indie Music Festival"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bfb"
+  },
+  "location": "Chennai",
+  "eventType": "Startup Expo",
+  "date": {
+    "$date": "2024-12-30T00:00:00.000Z"
+  },
+  "description": "Chennai Startup Showcase"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bfc"
+  },
+  "location": "Hyderabad",
+  "eventType": "Business Summit",
+  "date": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "description": "Hyderabad Global Business Forum"
+},
+{
+  "_id": {
+    "$oid": "6718f8165d6f16a48b0d2bfd"
+  },
+  "location": "Kolkata",
+  "eventType": "Workshop",
+  "date": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "description": "Cloud Architecture Workshop"
+}]
